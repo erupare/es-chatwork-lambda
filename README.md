@@ -2,7 +2,7 @@
 
 ## Overview
 
-![画像](/Users/takahashiyusuke/Desktop/Untitled_SearchSystem_-_Cacoo.png)
+![画像](https://cdn-ssl-devio-img.classmethod.jp/wp-content/uploads/2018/01/ticket-search-1.png)
 
 - User posts the keywords you want to search on ChatWark
 - POST request with ChatWark's Webhook
