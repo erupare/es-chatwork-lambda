@@ -1,0 +1,6 @@
+serverless.yml
+node_modules
+__pycache__
+unzip_requirements.py
+.idea
+package-lock.json
