@@ -2,7 +2,7 @@
 
 ## Overview
 
-![画像]((https://github.com/y4e/es-chatwork-lambda/images/ticket-search.png)
+![画像](https://github.com/y4e/es-chatwork-lambda/blob/master/images/ticket-search.png)
 
 - User posts the keywords you want to search on ChatWark
 - POST request with ChatWark's Webhook
