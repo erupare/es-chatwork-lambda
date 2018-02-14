@@ -40,4 +40,5 @@ client/es.py
 
 ## References
 
-blog url
+- [Building a full-text ticket search system for support team](https://dev.classmethod.jp/cloud/full-text-ticket-search-system-for-support-team/)
+- [オペ用チケット全文検索システムを作ってみた](https://dev.classmethod.jp/cloud/full-text-ticket-search-system-for-support-team-ja/)
